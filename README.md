@@ -12,3 +12,4 @@ A bounty to claim`
 - another review
 - review 10000
 - review 2000
+- Newman
