@@ -6,4 +6,4 @@ This is something new
 Fixing again
 A bounty to claim`
 3k bounty
-new bounty solved
+- new bounty solved
